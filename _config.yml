@@ -1,1 +1,9 @@
 remote_theme : pmarsceill/just-the-docs
+
+# Set a path/url to a logo that will be displayed instead of the title
+# logo: "/assets/images/just-the-docs.png"
+
+search:
+  # Split pages into sections that can be searched individually
+  # Supports 1 - 6, default: 2
+  heading_level: 3
